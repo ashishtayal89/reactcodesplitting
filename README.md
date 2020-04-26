@@ -1,6 +1,6 @@
 # React Chunking
 
-1. Run `yarn` followed by `npm start`
+1. Run `yarn` > `npm start`. This will install the packages and run the application at **http://localhost:3000/**
 
 ## Module Based
 
